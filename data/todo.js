@@ -1,0 +1,17 @@
+export const data = [
+  { 'id': 1, 'title': "Buy groceries", 'completed': false },
+  { 'id': 2, 'title': "Call mom", 'completed': true },
+  { 'id': 3, 'title': "Finish React Native project", 'completed': false },
+  { 'id': 4, 'title': "Workout for 30 mins", 'completed': false },
+  { 'id': 5, 'title': "Clean the room", 'completed': true },
+  { 'id': 6, 'title': "Read 20 pages of a book", 'completed': false },
+  { 'id': 7, 'title': "Fix login bug", 'completed': true },
+  { 'id': 8, 'title': "Plan weekend trip", 'completed': false },
+  { 'id': 9, 'title': "Send project update email", 'completed': true },
+  { 'id': 10, 'title': "Pay phone bill", 'completed': false },
+  { 'id': 11, 'title': "Practice DSA questions", 'completed': false },
+  { 'id': 12, 'title': "Watch Azure tutorial", 'completed': true },
+  { 'id': 13, 'title': "Work on AI budget planner", 'completed': false },
+  { 'id': 14, 'title': "Water the plants", 'completed': true },
+  { 'id': 15, 'title': "Update resume", 'completed': false },
+];
